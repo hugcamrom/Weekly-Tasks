@@ -1,7 +1,7 @@
-# Weekly task 5
+# Weekly task 5. weekday.py
 # Write a program that outputs whether or not today is a weekday
 # You will need to search the web to find how you work out what day it is:
-# Ref;
+# Ref:
 # https://www.w3schools.com/python/python_datetime.asp
 # https://www.shecodes.io/athena/10185-how-to-check-what-day-of-the-week-it-is-in-python#:~:text=date%20using%20datetime.-,datetime.,)%20to%206%20(Sunday).
 # https://www.w3schools.com/python/python_conditions.asp
