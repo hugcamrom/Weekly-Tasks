@@ -1,6 +1,7 @@
 # Weekly-Tasks
 ***
 
+               ![image by Benjamintf1](image.png)
 ## Programming and Scripting Lecture at [ATU](https://vlegalwaymayo.atu.ie/) by Mr. Andrew Beatty.
 
 * test.py
@@ -12,4 +13,5 @@
 * es.py
 * plottask.py
 
-![image by Benjamintf1](image.png)
+
+                                                                    Hugo Camacho Romero.
