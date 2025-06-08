@@ -1,7 +1,7 @@
 # Weekly-Tasks
 ***
 
-![tasks](img\image_tasks.png)
+![tasks](img\tasks_done.png)
 
 ## Programming and Scripting Lecture at [ATU](https://vlegalwaymayo.atu.ie/) by Mr. Andrew Beatty.
 
