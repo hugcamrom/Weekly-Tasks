@@ -149,7 +149,7 @@ This repository is intended for educational and academic use only. The text file
 
 **Hugo Camacho Romero**  
 Student at [ATU](https://vlegalwaymayo.atu.ie/)  
-Course: Programming and Scripting
+Course: Programming and Scripting.
 
 ---
 
